@@ -11,4 +11,7 @@ def model2():
 def model3():
     print("adding code for model3")
 
+def model4():
+    print("adding code for model4")
+
 print("model3 is performing best")
